@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    max-width: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+ 
+
+
+}
+
+header {
+    width: 700px;
+    height: 150px;
+    background-color: #F4D136;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+h2 {
+    margin: 1rem;
+}
+
+h3 {
+    margin-left: 1rem;
+}
+
+
+
+input {
+    width: 200px;
+    margin: 10px;
+    padding: 0.5rem;
+    border-radius: 5px;
+   
+}
